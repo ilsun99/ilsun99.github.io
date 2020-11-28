@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Archive
+title: Main
 ---
 
-# Archive
+# Archives
+
+여기는 아직 만지기 무섭다. 물어봐야지 
 
 Browse all posts by month and year.
 
